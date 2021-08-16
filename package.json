@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-intro",
+  "version": "1.0.0",
+  "description": "exploring observer pattern of rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tss-legal-code/rxjs-intro.git"
+  },
+  "keywords": [
+    "rxjs",
+    "observer",
+    "observable",
+    "coding",
+    "pattern"
+  ],
+  "author": "Serhii Tarabanchuk (following tuorials by Timur Shemsedinov)",
+  "dependencies": {
+    "rxjs": "^6.5.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tss-legal-code/rxjs-intro/issues"
+  },
+  "homepage": "https://github.com/tss-legal-code/rxjs-intro#readme"
+}
